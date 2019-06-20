@@ -4,6 +4,7 @@
 #github
 #diff head
 #remove 11.py
+#after git clone
 print("hello world!")
 print("hello David!")
 print("hello sugardeng!")
